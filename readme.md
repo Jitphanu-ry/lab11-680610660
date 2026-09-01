@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : จิตรภาณุ ริยะสาร
 
-GitHub Page URL : https://github.com/Jitphanu-ry/lab11-680610660.git
+GitHub Page URL : https://jitphanu-ry.github.io/lab11-680610660/
 
 ---
 
