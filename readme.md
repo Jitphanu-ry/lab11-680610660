@@ -2,11 +2,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 680610660
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : จิตรภาณุ ริยะสาร
 
-GitHub Page URL :
+GitHub Page URL : https://github.com/Jitphanu-ry/lab11-680610660.git
 
 ---
 
